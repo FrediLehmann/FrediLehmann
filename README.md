@@ -6,19 +6,24 @@ I'm a web developer :spider_web: and design enthusiast. Currently building user 
 
 ## :computer: coding in...
 
-<style>
-    #coding_in {
-        columns: 2;
-    }
-</style>
-<ul id="coding_in">
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-    <li>Rust</li>
-    <li>Go</li>
-    <li>Python</li>
-</ul>
+<table>
+    <tr>
+        <td>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Rust</li>
+                <li>Go</li>
+                <li>Python</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 <!--
 **FrediLehmann/FrediLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
