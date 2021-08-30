@@ -6,7 +6,12 @@ I'm a web developer :spider_web: and design enthusiast. Currently building user 
 
 ## :computer: coding in...
 
-<ul style="columns: 2;">
+<style>
+    #coding_in {
+        columns: 2;
+    }
+</style>
+<ul id="coding_in">
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
