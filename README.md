@@ -6,23 +6,14 @@ I'm a web developer :spider_web: and design enthusiast. Currently building user 
 
 ## :computer: coding in...
 
-<div style="display: grid;grid-template-columns: 1fr 1fr;">
-    <div>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-        </ul>
-    </div>
-    <div>
-        <ul>
-            <li>Rust</li>
-            <li>Go</li>
-            <li>Python</li>
-        </ul>
-    </div>
-</div>
-
+<ul style="columns: 2;">
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Rust</li>
+    <li>Go</li>
+    <li>Python</li>
+</ul>
 <!--
 **FrediLehmann/FrediLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
