@@ -4,6 +4,9 @@ Welcome to my page :open_hands: my name is Frédéric, that's a french name :fr:
 
 I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [Scout24](https://github.com/is24ch).
 
+I like memes
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ## :computer: ...
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrediLehmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
