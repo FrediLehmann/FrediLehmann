@@ -4,18 +4,9 @@ Welcome to my page :open_hands: my name is Frédéric, that's a french name :fr:
 
 I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [Scout24](https://github.com/is24ch).
 
-## :computer: coding in...
+## :computer: ...
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="24">
-
-- CSS
-- JavaScript
-- Rust
-- Go
-- Python
-- C#
-- Java
-- C/C++
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrediLehmann)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FrediLehmann/FrediLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
