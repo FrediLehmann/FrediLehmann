@@ -1,8 +1,6 @@
 # Hello 👋
 
-Welcome to my page :open_hands: my name is Frédéric, that's a french name :fr: although I'm not french, I'm Swiss 🇨🇭🧀 and my native language is german :de:
-
-I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [SMG](https://swissmarketplace.group/). Also I'm a proud [1x engineer](https://1x.engineer/).
+Welcome to my page :open_hands: my name is Frédéric Lehmann. I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [SMG](https://swissmarketplace.group/). Also I'm a proud [1x engineer](https://1x.engineer/).
 
 ## Gists
 
