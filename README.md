@@ -4,16 +4,15 @@ Welcome to my page :open_hands: my name is Frédéric, that's a french name :fr:
 
 I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [SMG](https://swissmarketplace.group/). Also I'm a proud [1x engineer](https://1x.engineer/).
 
-<!--
-I like memes
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
--->
-
-## :computer: Coding live...
+## :computer: Coding
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrediLehmann&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrediLehmann&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Gists
+
+- [Accordion](https://gist.github.com/FrediLehmann/39c4ac93709e4e2b155426574b878101) ([Snadbox](https://codesandbox.io/s/html-css-accordion-4j4q7m))
 
 <!--
 **FrediLehmann/FrediLehmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
