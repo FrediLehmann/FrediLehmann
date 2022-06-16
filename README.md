@@ -2,6 +2,11 @@
 
 Welcome to my page :open_hands: my name is Frédéric Lehmann. I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [SMG](https://swissmarketplace.group/). Also I'm a proud [1x engineer](https://1x.engineer/).
 
+## Find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/frederic-lehmann/)
+- [Twitter](https://twitter.com/OneBugMan)
+
 ## Gists
 
 - [Accordion](https://gist.github.com/FrediLehmann/39c4ac93709e4e2b155426574b878101) ([Sandbox](https://codesandbox.io/s/html-css-accordion-4j4q7m))
