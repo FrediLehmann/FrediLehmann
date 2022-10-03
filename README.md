@@ -7,10 +7,11 @@ Welcome to my page :open_hands: my name is Frédéric Lehmann. I'm a web develop
 - [LinkedIn](https://www.linkedin.com/in/frederic-lehmann/)
 - [Twitter](https://twitter.com/OneBugMan)
 
-## Gists
+## Templates
 
-- [Accordion](https://gist.github.com/FrediLehmann/39c4ac93709e4e2b155426574b878101) ([Sandbox](https://codesandbox.io/s/html-css-accordion-4j4q7m))
-- [Modal](https://gist.github.com/FrediLehmann/563677d0b962ced44f713f777f854df0) ([Sandbox](https://codesandbox.io/s/html-css-modal-uy716x))
+- [Accordion](https://github.com/FrediLehmann/template-accordion) ([Sandbox](https://codesandbox.io/s/github/FrediLehmann/template-accordion))
+- [Modal](https://github.com/FrediLehmann/template-modal) ([Sandbox](https://codesandbox.io/s/github/FrediLehmann/template-modal))
+- [Popout Menu](https://github.com/FrediLehmann/template-popout) ([Sandbox](https://codesandbox.io/s/github/FrediLehmann/template-popout))
 
 ## :computer: Coding
 
