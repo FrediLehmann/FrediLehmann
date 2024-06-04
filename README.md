@@ -1,6 +1,6 @@
 # Hello 👋
 
-Welcome to my page :open_hands: my name is Frédéric Lehmann. I'm a web developer :spider_web: and design enthusiast. Currently building user centered solutions at [SMG](https://swissmarketplace.group/). Also I'm a proud [1x engineer](https://1x.engineer/).
+Welcome to my page :open_hands: my name is Frédéric Lehmann. I'm a web developer :spider_web: and design enthusiast. Currently lead engineer at [Beratungshero](https://www.beratungshero.ch/). Also I'm a proud [1x engineer](https://1x.engineer/).
 
 ## Find me on:
 
