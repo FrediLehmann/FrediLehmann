@@ -5,9 +5,10 @@ Welcome to my page :open_hands: my name is Frédéric Lehmann. I'm a web develop
 ## Find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/frederic-lehmann/)
-- [Bluesky](https://bsky.app/)
+- [Bluesky](https://bsky.app/profile/fredilehmann.bsky.social)
 
 ## Projects:
+
 - [Velogruppe 60 Plus](https://www.velogruppe60plus-sensetal.ch)
 - [Tellytics](https://www.tellytics.ch)
 - [Tippspiel](https://www.wiza.ch)
